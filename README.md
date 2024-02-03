@@ -12,10 +12,10 @@ It also provides you with category visualization through a pie chart.
 - React.js
 
 ### Things Used
-- ♟ useState 
-- ♟ useEffect
-- ♟ react-modal
-- ♟ react-chartjs-2
+- useState 
+- useEffect
+- react-modal
+- react-chartjs-2
 
 ### API Used
 - fakestoreapi API
